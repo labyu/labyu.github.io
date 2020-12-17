@@ -1,7 +1,7 @@
 version: "3.5"
 
 services:
-  jekyll-theme_dev:
+  jekyll-text-theme_dev:
     image: docker_jekyll-text-theme_dev
     environment:
       - JEKYLL_ENV
