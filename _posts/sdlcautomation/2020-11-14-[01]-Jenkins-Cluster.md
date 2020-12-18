@@ -17,7 +17,7 @@ sitemap :
 - Jenkins Inbount Agent Image :  [DockerHub](https://hub.docker.com/r/jenkins/inbound-agent)
 
 ### 개요
-이번 포스트에서는 Kubernetes에서 Jenkins Master - Agent로 구성된 Cluster를 구축해볼 예정입니다. Jenkins Agent는 일반적으로 JNLP(JAVA Web Start)방식으로 노드들간 통신을 합니다. 또한 파이프라인에서 도커 컨테이너 혹은 쿠버네티스 파드를 프로비저닝하면서 에이전트로서 사용할 수 있지만 그 에이전트 스펙을 확실하게 잡기 위해서 일단 미리 프로비저닝된 쿠버네티스 파드를 통해 구성할 예정입니다.
+이번 포스트에서는 Kubernetes에서 Jenkins Master - Agent로 구성된 Cluster를 구축해볼 예정입니다. Jenkins Agent는 일반적으로 JNLP(JAVA Web Start)방식으로 노드들간 통신을 합니다. 또한 파이프라인에서 도커 컨테이너 혹은 쿠버네티스 파드를 프로비저닝하면서 에이전트로서 사용(pod Template 등)할 수 있지만 그 에이전트 스펙을 확실하게 잡기 위해서 일단 미리 프로비저닝된 쿠버네티스 파드를 통해 구성할 예정입니다.
 
 ![](/assets/images/sdlcautomation/01/jenkins-agent.png)
 
