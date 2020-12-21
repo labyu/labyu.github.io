@@ -11,7 +11,6 @@ sitemap :
   changefreq : daily
   priority : 1.0
 header:
-  image: "/assets/images/sdlcautomation/01/jenkins-agent.png"
   og_image: "/assets/images/sdlcautomation/01/jenkins-agent.png"
 ---
 #### 환경
