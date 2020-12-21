@@ -5,7 +5,8 @@ categories:
 tags:
   - kubernetes
   - jenkins
-  - GitHub
+  - sonarqube
+  - jacoco
 last_modified_at: 2020-11-01T00:00:00+09:00
 author_profile: true
 sitemap :

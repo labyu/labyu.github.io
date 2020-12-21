@@ -3,9 +3,9 @@ title: "[SDLC Automation.06] Notification"
 categories: 
   - SDLC Automation
 tags:
-  - kubernetes
+  - argocd
   - jenkins
-  - GitHub
+  - slack
 last_modified_at: 2020-11-01T00:00:00+09:00
 author_profile: true
 sitemap :
