@@ -7,10 +7,12 @@ tags:
   - jenkins
   - GitHub
 last_modified_at: 2020-11-01T00:00:00+09:00
-author_profile: false
+author_profile: true
 sitemap :
   changefreq : daily
   priority : 1.0
+header:
+  og_image: "/assets/images/sdlcautomation/03/sonarqube.png"
 ---
 
 #### 환경
