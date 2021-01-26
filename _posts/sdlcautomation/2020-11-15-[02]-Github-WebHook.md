@@ -5,7 +5,7 @@ categories:
 tags:
   - kubernetes
   - jenkins
-  - GitHub
+  - github
 last_modified_at: 2020-11-01T00:00:00+09:00
 author_profile: true
 sitemap :
@@ -40,6 +40,8 @@ GitHub의 PR은 opened, closed, ready_for_review 등 다양한 이벤트가 있�
 - Git SCM Polling : GitHub Plugin(기본)에 포함되어있는 트리거
 - GitHub Pull Request Builder : GitHub PR과 연동되어 Commit Status까지 설정할 수 있는 아주 좋은 플러그인
 - Generic WebHook Trigger : WebHook의 파라미터 기반으로 다양한 이벤트를 걸 수 있는 플러그인
+
+---
 
 ### 실습
 #### Pull Request Builder 연동
