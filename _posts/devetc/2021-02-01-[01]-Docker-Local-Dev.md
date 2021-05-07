@@ -87,3 +87,6 @@ volumes:
 ```bash
 docker-sync-stack start
 ```
+
+### 결론
+로컬에서 소스코드를 수정하고 저장할 때마다 docker-sync에 의해서 code-container로 file sync가 이루어지고 애플리케이션 컨테이너와 마운트 되어있기 때문에 로컬 애플리케이션 서버에 바로 반영이 됩니다. Virtual Box, VM Ware보다 Docker의 이점을 살리면서 Sync 성능까지 고려한 구축이라 굉장히 좋은 것 같습니다.
