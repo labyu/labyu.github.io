@@ -1,5 +1,5 @@
 ---
-title: "[준비중] Building gRPC on MSA"
+title: "[준비중] 이종 MSA 환경에서 gRPC 통신 구축"
 categories:
   - tech
 tags:

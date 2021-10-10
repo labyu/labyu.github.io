@@ -1,5 +1,5 @@
 ---
-title: "CI/CD on Kubernetes with Jenkins & ArgoCD"
+title: "Kubernetes에서 Jenkins와 ArgoCD로 CI/CD 구축"
 categories: 
   - tech
 tags:

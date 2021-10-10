@@ -1,5 +1,6 @@
 ---
-title: "Building Kubernetes Cluster at home"
+
+title: "DIY Kubernetes"
 categories: 
   - tech
 tags:
