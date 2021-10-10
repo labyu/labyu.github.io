@@ -4,7 +4,7 @@ categories:
   - kubernetes
 tags:
   - kubernetes
-last_modified_at: 2020-11-01T00:00:00+09:00
+last_modified_at: 2021-10-11T00:00:00+09:00
 author_profile: true
 sitemap :
   changefreq : daily
@@ -12,6 +12,7 @@ sitemap :
 header:
   og_image: "/assets/images/devetc/03/HomeServer.png"
 ---
+
 ![](/assets/images/devetc/03/HomeServer.png)
 ### 개요
 이번 포스트에서는 집에서 Wifi 설정과 데스크톱을 이용해 Kubernetes Cluster를 구축해볼 예정입니다. 매번 토이프로젝트를할 떄 애플리케이션 서버를 어떻게할지 고민이었는데, 또한 추가로 Redis, ElasticSearch, MySQL, Jenkins  등 여러 리소스들을 편리하게 사용하기 위해 쿠버네티스를 구축해 관리하고 배포할 예정입니다.
@@ -246,3 +247,5 @@ nameserver 192.168.219.200
 ### 추후 개선해야할 점
 - 현재 마스터노드가 하나인데, SPOF를 제거하기 위해 이중화를 해주어야한다. (마스터노드 HA)
 - 만약 서비스가 생기고 트래픽이 많아지면 Route 53의 가중치기반, 지연시간기반등을 통해 클라우드의 쿠버네티스 클러스터와 분산화를 해줄 예정이다. (멀티 클러스터)
+
+
