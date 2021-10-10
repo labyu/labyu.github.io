@@ -1,9 +1,10 @@
 ---
 title: "[준비중] Building gRPC on MSA"
 categories:
-  - kubernetes
+  - tech
 tags:
-  - kubernetes
+  - grpc
+  - aws
 last_modified_at: 2021-10-11T00:00:00+09:00
 author_profile: true
 sitemap :

@@ -1,10 +1,11 @@
 ---
 title: "CI/CD on Kubernetes with Jenkins & ArgoCD"
 categories: 
-  - kubernetes
+  - tech
 tags:
   - kubernetes
   - jenkins
+  - argocd
 last_modified_at: 2021-10-11T00:00:00+09:00
 author_profile: true
 sitemap :

@@ -1,7 +1,7 @@
 ---
 title: "Building Kubernetes Cluster at home"
 categories: 
-  - kubernetes
+  - tech
 tags:
   - kubernetes
 last_modified_at: 2021-10-11T00:00:00+09:00
