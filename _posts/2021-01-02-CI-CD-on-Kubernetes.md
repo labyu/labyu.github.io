@@ -1,5 +1,5 @@
 ---
-title: "Kubernetes에서 Jenkins와 ArgoCD로 CI/CD 구축"
+title: "Kubernetes에서 Jenkins와 ArgoCD로 CI/CD 구축하기"
 categories: 
   - tech
 tags:
