@@ -1,5 +1,5 @@
 ---
-title: "[Dev Etc] 집에서 쿠버네티스 클러스터 구축하기"
+title: "Building Kubernetes Cluster at home"
 categories: 
   - kubernetes
 tags:

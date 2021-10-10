@@ -1,5 +1,5 @@
 ---
-title: "[SDLC Automation] CI/CD on Kubernetes with Jenkins & ArgoCD"
+title: "CI/CD on Kubernetes with Jenkins & ArgoCD"
 categories: 
   - kubernetes
 tags:
