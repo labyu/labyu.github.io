@@ -3,8 +3,8 @@ title: "[준비중] Kafka를 활용한 CDC, Heterogeneous Databases Replication"
 categories:
   - tech
 tags:
-  - grpc
-  - aws
+  - kafka
+  - cdc
 last_modified_at: 2021-10-11T00:00:00+09:00
 author_profile: true
 sitemap :
