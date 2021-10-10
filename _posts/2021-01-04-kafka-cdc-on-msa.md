@@ -1,5 +1,5 @@
 ---
-title: "[준비중] MSA 환경에서 gRPC 통신 구축하기"
+title: "[준비중] Kafka를 활용한 CDC, Heterogeneous Databases Replication"
 categories:
   - tech
 tags:
