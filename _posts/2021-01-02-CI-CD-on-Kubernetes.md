@@ -827,3 +827,4 @@ data:
           시간 : {{.app.status.operationState.finishedAt}}
           확인 : {{.context.argocdUrl}}/applications/{{.app.metadata.name}}?operation=true
 ```
+
